@@ -1,0 +1,4 @@
+requests
+gradio
+json_repair
+openai-whisper
