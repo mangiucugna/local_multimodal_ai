@@ -29,7 +29,7 @@ Download the following bakllava model files to the `llama.cpp/models` folder
 - https://huggingface.co/mys/ggml_bakllava-1/resolve/main/ggml-model-q4_k.gguf
 - https://huggingface.co/mys/ggml_bakllava-1/resolve/main/mmproj-model-f16.gguf
 
-and copy them in llama.cpp/models/ggml-bakllava-1/
+and copy them in `llama.cpp/models/ggml-bakllava-1/`
 
 ### 5. Install requirements
 
