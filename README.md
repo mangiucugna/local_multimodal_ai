@@ -79,8 +79,8 @@ python app.py
 
 # Credits
 
-1. Forked from [https://github.com/cocktailpeanut/mirror/]
-2. [Llama.cpp](https://github.com/ggerganov/llama.cpp) for the LLM Server.
-3. [Bakllava](https://huggingface.co/SkunkworksAI/BakLLaVA-1) for the Multimodal AI model.
+1. Forked from https://github.com/cocktailpeanut/mirror/
+2. [Llama.cpp](https://github.com/ggerganov/llama.cpp)
+3. [Bakllava](https://huggingface.co/SkunkworksAI/BakLLaVA-1)
 4. Built with [gradio](https://www.gradio.app/).
 
